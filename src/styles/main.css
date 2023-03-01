@@ -55,7 +55,7 @@ body {
 }
 
 .header__title strong {
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 700;
 }
 form {
@@ -147,7 +147,7 @@ form {
 	display: none !important;
 }
 .section {
-	padding: 70px 0;
+	/* padding: 70px 0; */
     
 }
 .title-1{

@@ -13,12 +13,7 @@ function App() {
           <Route path="/book/:id" element={<Book/>} />
         </Routes>
     </Router>
-    
-     
   </div>
-    
-      
-    
   );
 }
 

@@ -1,6 +1,5 @@
 
 import "./../styles/second.css";
-import pic1 from "./../img/1.jpg";
 import {books} from "./../helpers/bookList";
 import { useParams } from "react-router-dom";
 const Book = () => {

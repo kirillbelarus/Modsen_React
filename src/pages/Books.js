@@ -5,7 +5,7 @@ const Books = () => {
     return ( 
         <>
         <main className="section">
-            <h4 className="title-1">Found 446 results</h4>
+            <h4 className="title-1">Found 6 results</h4>
             <ul className="books">
                 {books.map((book,index)=>{
                     return (
